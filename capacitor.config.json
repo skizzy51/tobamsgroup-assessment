@@ -1,0 +1,11 @@
+{
+    "appId": "tobamsgroup-assessment.app",
+    "appName": "Tobamsgroup-assessment",
+    "bundledWebRuntime": false,
+    "webDir": "www",
+    "plugins": {
+        "SplashScreen": {
+            "launchShowDuration": 0
+        }
+    }
+}
